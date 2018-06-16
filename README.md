@@ -1,4 +1,4 @@
-Provision Kubenetes with kubeadm + Terraform + Packer
+Provision Kubernetes with kubeadm + Terraform + Packer
 =================
 
 ## Requirements:
