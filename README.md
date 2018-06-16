@@ -3,11 +3,9 @@ Provision Kubenetes with kubeadm + Terraform + Packer
 
 ## Requirements:
 
-* AWS Cli
+
 * Packer
 * Terraform
-
-Note: some of this requirements are covered in DevOps 2.4 Book in Appendix B
 
 ## Bake the kubernetes snapshot: 
 
