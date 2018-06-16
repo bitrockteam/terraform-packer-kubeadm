@@ -12,7 +12,7 @@ Provision Kubernetes with kubeadm + Terraform + Packer
 ```bash
 export DIGITALOCEAN_API_TOKEN="<your_DO_token>"
 
-cd terraform
+cd terraform-packer-kubeadm
 
 packer build -machine-readable \
     packer-kubernetes.json \
