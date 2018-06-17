@@ -1,4 +1,4 @@
-Provision Kubernetes with kubeadm + Terraform + Packer
+Install Kubernetes with kubeadm + Terraform + Packer on Digital Ocean
 =================
 
 
