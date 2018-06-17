@@ -2,6 +2,8 @@ Provision Kubernetes with kubeadm + Terraform + Packer
 =================
 
 
+## CLick below to see the video tutorial:
+
 [![See in Action](https://lawofattractionsolutions.com/wp-content/uploads/2016/04/action-clapboard.png)](http://www.youtube.com/watch?v=J8RGm0rBAIg "Kubernetes on DO")
 
 
