@@ -1,0 +1,7 @@
+.terraform/
+k8s-key
+k8s-key.pub
+packer-kubernetes.log
+plan
+terraform.tfstate
+terraform.tfstate.backup
