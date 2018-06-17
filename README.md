@@ -92,6 +92,23 @@ export KUBECONFIG=admin.conf
 kubectl get nodes
 ```
 
+## Istall calico for CNI
+
+```bash
+kubectl apply -f https://docs.projectcalico.org/v2.1/getting-started/kubernetes/installation/hosted/kubeadm/1.6/calico.yaml
+
+```
+
+kubectl get nodes
+```
+
+```
+NAME         STATUS    ROLES     AGE       VERSION
+k8s-master   Ready     master    5m        v1.9.7
+k8s-node-1   Ready     <none>    2m        v1.9.7
+k8s-node-2   Ready     <none>    2m        v1.9.7
+```
+
 ## To teardown the cluster
 
 ```bash
