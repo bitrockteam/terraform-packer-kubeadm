@@ -5,3 +5,4 @@ packer-kubernetes.log
 plan
 terraform.tfstate
 terraform.tfstate.backup
+admin.conf
