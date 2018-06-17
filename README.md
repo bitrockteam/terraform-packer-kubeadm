@@ -2,7 +2,7 @@ Provision Kubernetes with kubeadm + Terraform + Packer
 =================
 
 
-[![](http://img.youtube.com/vi/J8RGm0rBAIg/0.jpg)](http://www.youtube.com/watch?v=J8RGm0rBAIg "Kubernetes on DO")
+[![See in Action](http://img.youtube.com/vi/J8RGm0rBAIg/0.jpg)](http://www.youtube.com/watch?v=J8RGm0rBAIg "Kubernetes on DO")
 
 
 
